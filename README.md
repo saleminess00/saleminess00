@@ -2,8 +2,6 @@
 <div align="center">
 
 
-[![Inèss's GitHub stats](https://github-readme-stats-kohl-nu.vercel.app/api?username=saleminess00&theme=aura_dark&include_all_commits=true&custom_title=saleminess00&count_private=true
-)](https://github.com/anuraghazra/github-readme-stats)
 
 
  

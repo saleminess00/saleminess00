@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🫣 *My GitHub contributions graph looks suspiciously empty because I do most of my work on EC2s or NVIDIA Orin/AEON using company or shared GitHub accounts. Could I configure Git each time to reflect my account? Sure. Will I? No.*
+🫣 *My GitHub contributions graph looks suspiciously empty because I do most of my work on AWS EC2 or NVIDIA Orin/AEON using company or shared GitHub accounts. Could I configure Git each time to reflect my account? Sure. Will I? No.*
 
 <br>
 
